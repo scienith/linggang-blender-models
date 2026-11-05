@@ -1,0 +1,56 @@
+{
+  "model": "中银金融中心",
+  "blend": "models/buildings/中银金融中心/中银金融中心.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "照片资料",
+      "sha256": "d7400e4b957f26bd8e5a894b421cfc796281c4c3447e9abf6b1c59dc0630e565",
+      "bytes": 1879292,
+      "source_page": "https://www.cscec.com/xwzx_new/zqydt_new/202603/3931091.html",
+      "source_file_url": "https://www.cscec.com/xwzx_new/zqydt_new/202603/W020260304578444001330.jpg",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2026-03-05",
+      "model_review_observation": "竣工实景；西岸看双塔、三角连廊、朝西U形裙房",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "west-island-cscec-cn-2026-001-d7400e4b95.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "照片资料",
+      "sha256": "6d9ee381f48b2f092814bd4a8a36e4985bc1282f6419812343806a443ba3f4f3",
+      "bytes": 4536581,
+      "source_page": "https://www.cscec.com/xwzx_new/zqydt_new/202603/3931091.html",
+      "source_file_url": "https://www.cscec.com/xwzx_new/zqydt_new/202603/W020260304578444334328.png",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2026-03-05",
+      "model_review_observation": "竣工俯视；西岛铺地、裙房、塔冠与屋顶机房",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "west-island-cscec-cn-2026-002-6d9ee381f4.png",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "501e1bc9c33dc369be61e0f85944c0f0837c65e7035526b4fa325b4dad605b1a",
+      "bytes": 79636,
+      "source_page": "https://www.cscec.com/xwzx_new/zqydt_new/202603/3931091.html",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2026-03-05",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "west-island-cscec-cn-2026.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

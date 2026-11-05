@@ -1,0 +1,56 @@
+{
+  "model": "南岛东北岸中式院落组团",
+  "blend": "models/buildings/南岛东北岸中式院落组团/南岛东北岸中式院落组团.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "原始资料_类型待核实",
+      "sha256": "fab1235663cc927a4531e2430cb6301ce33c88174727d982659b99c6038ed1df",
+      "bytes": 168710,
+      "source_page": "https://www.zmjiudian.com/active/activepage?_isshare=1&pageid=3960",
+      "source_file_url": "http://p1.zmjiudian.com/bBgkNTIqO_jupiter",
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": "中式主楼临水侧可见白色石栏平台，背景低白院墙，画面左侧有一座小石拱桥。照片不能单独确定桥位坐标、墙体高度及完整围墙走向。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "hotel-zm-south-garden-2021-035-fab1235663.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "航空影像",
+      "sha256": "67a94a48949e8d916910f1c980e44cb4bcae0c644ee9100e2f219922c83cd894",
+      "bytes": 76477,
+      "source_page": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+      "source_file_url": "https://services.arcgisonline.com/arcgis/rest/directories/arcgisoutput/World_Imagery_MapServer/_ags_mapb0bdec6a56cf479c9e017b070f2c9c9d.jpg",
+      "downloaded_on": null,
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "south-garden-garden.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "08ae769c37eaf7d04ffb91778567e4954f010369f8cfcae0c8e2061e094b8340",
+      "bytes": 118411,
+      "source_page": "https://www.zmjiudian.com/active/activepage?_isshare=1&pageid=3960",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "hotel-zm-south-garden-2021.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

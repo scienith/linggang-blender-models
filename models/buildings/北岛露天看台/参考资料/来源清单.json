@@ -1,0 +1,72 @@
+{
+  "model": "北岛露天看台",
+  "blend": "models/buildings/北岛露天看台/北岛露天看台.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "照片资料",
+      "sha256": "e02666cbe50930615680eadcc8fdf9688d04f975d2b70c7f53ae65656d418d85",
+      "bytes": 123966,
+      "source_page": "https://www.jfdaily.com/sgh/detail?id=4033196",
+      "source_file_url": "https://sghimages.shobserver.cn/img/sgh/20260805/JX2GXH7wQx/ee8f9ee2a40b447ab5b155f04dc319aa.jpg",
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": "2026-08-05",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-north-art-jfdaily-006-e02666cbe5.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "照片资料",
+      "sha256": "fef841a539d6233a8aec65521ceec76ace4596d8cfb96951871aa047cbb21954",
+      "bytes": 233003,
+      "source_page": "https://cmp.whlyj.sh.gov.cn/CMP/tpr_view.ac?id=6da0585df4a844dc95eb3f9c85037ef8",
+      "source_file_url": "https://cmp.whlyj.sh.gov.cn/upload/image/n3/202608/20260828095529jepp6.jpg",
+      "downloaded_on": "2026-10-24",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-north-art-tourism-2026-001.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "1bfacb8ed60720834c3ab91e1b76cfeb105728c3b5d63a889988d8a605f12f49",
+      "bytes": 54044,
+      "source_page": "https://www.jfdaily.com/sgh/detail?id=4033196",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": "2026-08-05",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-north-art-jfdaily.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "5d14c6597c3ca81c95407e24dac3351509166526d791f8535fdab67fb1e343a3",
+      "bytes": 11146,
+      "source_page": "https://cmp.whlyj.sh.gov.cn/CMP/tpr_view.ac?id=6da0585df4a844dc95eb3f9c85037ef8",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-24",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-north-art-tourism-2026.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}
