@@ -1,0 +1,72 @@
+{
+  "model": "滴水云厅",
+  "blend": "models/buildings/滴水云厅/滴水云厅.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "照片资料",
+      "sha256": "6de3223fda0d1d01f9f828b4f0603996362b925945fe9a75a54ed6133043a59e",
+      "bytes": 88824,
+      "source_page": "https://www.archina.com/index.php?a=show&g=works&id=156502&m=index",
+      "source_file_url": "http://www.archina.com/uploadWX/20240302/65e2d5e9e52ba170936471348504.jpeg",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2024",
+      "model_review_observation": "北侧实景航拍：两层玻璃、白色曲线悬挑、外缘云环与独立中央云形屋面之间有下沉环廊；末端独立圆盘。周边楼体仅局部，不能据此核完北岛通用楼。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "cloud-hall-archina-004-6de3223fda.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "照片资料",
+      "sha256": "1ec43d493bc4533970cdf880fc90ce8431ebb052c3a138947ae8457b7027e3a6",
+      "bytes": 36590,
+      "source_page": "https://www.archina.com/index.php?a=show&g=works&id=156502&m=index",
+      "source_file_url": "http://www.archina.com/uploadWX/20240302/65e2d5ea42927170936471464461.jpeg",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2024",
+      "model_review_observation": "黄昏屋顶近景：圆盘由单个核心支撑，环廊位于屋面下方，有金属护栏；建筑师正文最大圆盘悬挑11米，不是22米半径。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "cloud-hall-archina-017-1ec43d493b.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "照片资料",
+      "sha256": "8073caedab132f73c627b8fff395da966868cc7c95024785891bef6f21b9aeb2",
+      "bytes": 80061,
+      "source_page": "https://www.archina.com/index.php?a=show&g=works&id=156502&m=index",
+      "source_file_url": "http://www.archina.com/uploadWX/20240302/65e2d5ea471a3170936471425128.jpeg",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2024",
+      "model_review_observation": "屋面北侧实景：中央白色云形屋面独立，边缘层叠金属条，灰色环廊内凹；外缘并非整个实心满铺白板。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "cloud-hall-archina-018-8073caedab.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "0859e36e5d326ee462d8e3d8bac1bc85989f6f7453d9a140e142228184e3a0b1",
+      "bytes": 55217,
+      "source_page": "https://www.archina.com/index.php?a=show&g=works&id=156502&m=index",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2024",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "cloud-hall-archina.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}
