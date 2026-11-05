@@ -1,0 +1,56 @@
+{
+  "model": "站广场东侧L形办公楼",
+  "blend": "models/buildings/站广场东侧L形办公楼/站广场东侧L形办公楼.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "照片资料",
+      "sha256": "14f9092e5ebab9f5f6ca6600c92a41f3252c5a51d626bb51077cfe507e1beaca",
+      "bytes": 2709028,
+      "source_page": "https://www.archdaily.cn/cn/1026901/di-shui-hu-di-tie-zhan-shu-niu-gai-jian-gong-cheng-shang-hai-zhong-fang-jian-zhu-she-ji",
+      "source_file_url": "https://images.adsttc.com/media/images/67ac/b436/dae3/4801/8ae8/8f86/large_jpg/renovation-of-dishuilake-subway-station-shanghai-zf-architectural-design_5.jpg?1739371634",
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": "2025-02-15",
+      "model_review_observation": "1920×1280竣工俯视航拍：湖岸在图左，花形顶棚位于离湖较远一端，完整广场跨水芸路沿径向伸向湖岸；据此修正模型长轴由43°转为133°，宽度按设计方约100米描述收窄。图下左邻接L形楼体可辨屋顶设备和竖向外墙鳍片，名称及高度未核实。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "station-station-aerial-large-001-14f9092e5e.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "照片资料",
+      "sha256": "242fbe088f2c911453bd5fb3b00d661a2ba1622d66e783b6187ada24b77372b1",
+      "bytes": 1606740,
+      "source_page": "https://www.archdaily.cn/cn/1026901/di-shui-hu-di-tie-zhan-shu-niu-gai-jian-gong-cheng-shang-hai-zhong-fang-jian-zhu-she-ji",
+      "source_file_url": "https://images.adsttc.com/media/images/67ac/b431/ea72/f101/8803/4ff7/large_jpg/renovation-of-dishuilake-subway-station-shanghai-zf-architectural-design_8.jpg?1739371585",
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": "2025-02-15",
+      "model_review_observation": "站广场较大尺寸斜视实景，能看到相邻L形高低楼体、连续白色竖向构件；楼体和OSM对应仍未最终确认。",
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "station-station-context-large-005-242fbe088f.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "f273f30077e70f70701c2b61d1b8ed602dbd4d2b6aa41964c63a5c9c3b77b9f8",
+      "bytes": 788046,
+      "source_page": "https://www.archdaily.cn/cn/1026901/di-shui-hu-di-tie-zhan-shu-niu-gai-jian-gong-cheng-shang-hai-zhong-fang-jian-zhu-she-ji",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-12",
+      "photo_capture_date": null,
+      "page_publication_hint": "2025-02-15",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "station-station-context-large.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

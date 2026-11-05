@@ -1,0 +1,40 @@
+{
+  "model": "白色钟塔",
+  "blend": "models/buildings/白色钟塔/白色钟塔.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "照片资料",
+      "sha256": "b9986b01c0c2dcaa565ffb0e17a2537707f623c5c84b99d7917d6bae7454c386",
+      "bytes": 415835,
+      "source_page": "https://www.gooood.cn/renovation-of-dishui-lake-landscape-by-aisa.htm",
+      "source_file_url": "https://oss.gooood.cn/uploads/2025/11/050-renovation-of-dishui-lake-landscape-by-aisa-960x720.jpg",
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2025-11-17",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-siadr-gooood-030-b9986b01c0.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    },
+    {
+      "category": "网页快照",
+      "sha256": "e350e3e9c7cf21faf05e665bb974cfe11b32d991f4d9a2873d5aa6860e2c89ea",
+      "bytes": 669774,
+      "source_page": "https://www.gooood.cn/renovation-of-dishui-lake-landscape-by-aisa.htm",
+      "source_file_url": null,
+      "downloaded_on": "2026-10-11",
+      "photo_capture_date": null,
+      "page_publication_hint": "2025-11-17",
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "lakeside-siadr-gooood.html",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

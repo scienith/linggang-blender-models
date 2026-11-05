@@ -1,0 +1,24 @@
+{
+  "model": "北岛独立矩形建筑",
+  "blend": "models/buildings/北岛独立矩形建筑/北岛独立矩形建筑.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "航空影像",
+      "sha256": "4462f530b6d4a8dee6d70956dac66b55d172cb6c46dfe571b1474eb19f4d032e",
+      "bytes": 371718,
+      "source_page": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+      "source_file_url": null,
+      "downloaded_on": null,
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "north-entry-aerial.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

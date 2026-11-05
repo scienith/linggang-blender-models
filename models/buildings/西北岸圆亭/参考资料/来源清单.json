@@ -1,0 +1,24 @@
+{
+  "model": "西北岸圆亭",
+  "blend": "models/buildings/西北岸圆亭/西北岸圆亭.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "航空影像",
+      "sha256": "21026697665862a0d29de82e7baf3a95f5f5aa8c973bb0dfaafb40cff12e06f2",
+      "bytes": 88614,
+      "source_page": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+      "source_file_url": "https://services.arcgisonline.com/arcgis/rest/directories/arcgisoutput/World_Imagery_MapServer/_ags_map1df7a7fa3ed74e509658f2e5877e436b.jpg",
+      "downloaded_on": "2026-10-11T21:16:15.651088+00:00",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "utility-aerials-1451275571.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}

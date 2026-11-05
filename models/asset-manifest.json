@@ -1,0 +1,602 @@
+{
+  "version": "2026.11.05",
+  "license": "MIT",
+  "creator": "顶峰智研 Scienith",
+  "website": "https://www.scienith.cn",
+  "main": "models/dishui-lake.blend",
+  "assets": [
+    {
+      "id": "dishui-lake",
+      "name": "临港滴水湖完整区域",
+      "group": "main",
+      "blend": "models/dishui-lake.blend",
+      "reference_directory": "models/主场景参考资料",
+      "preview": "docs/主场景预览.png",
+      "sha256": "1a31d699ad55998f22307fc10508b6793d4571b24da171d4122c79b97ed02294",
+      "bytes": 1485169
+    },
+    {
+      "id": "building-d808f5a0",
+      "name": "中银金融中心",
+      "group": "buildings",
+      "blend": "models/buildings/中银金融中心/中银金融中心.blend",
+      "reference_directory": "models/buildings/中银金融中心/参考资料",
+      "preview": "models/buildings/中银金融中心/预览.png",
+      "summary": "以双塔和U形裙房构成的西岛地标组，保留塔楼轮廓与临湖前场关系。",
+      "features": [
+        "双塔采用连续折线斜撑和分层立面表达。",
+        "包含裙房、中央入口与接地前场。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "8d8000599025c415b09787a4abc9885c0ecda1c316584695a5cb51757df9e0d8",
+      "bytes": 201761
+    },
+    {
+      "id": "building-cd427884",
+      "name": "云朵建筑北楼",
+      "group": "buildings",
+      "blend": "models/buildings/云朵建筑北楼/云朵建筑北楼.blend",
+      "reference_directory": "models/buildings/云朵建筑北楼/参考资料",
+      "preview": "models/buildings/云朵建筑北楼/预览.png",
+      "summary": "云朵双楼中的北侧单体，以错落的圆盘屋盖和层叠体量表现建筑特征。",
+      "features": [
+        "保留独立圆盘屋盖与玻璃立面。",
+        "保持与南楼及两楼之间广场的原区域位置关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "bc2786e6056e4d7cad73e90b311a811c7dc4b4afb5087a9525f03b6b52c262e3",
+      "bytes": 251414
+    },
+    {
+      "id": "building-e0c0e5fe",
+      "name": "云朵建筑南楼",
+      "group": "buildings",
+      "blend": "models/buildings/云朵建筑南楼/云朵建筑南楼.blend",
+      "reference_directory": "models/buildings/云朵建筑南楼/参考资料",
+      "preview": "models/buildings/云朵建筑南楼/预览.png",
+      "summary": "云朵双楼中的南侧单体，和北楼共同构成临湖建筑组团。",
+      "features": [
+        "以层叠圆盘屋盖组织主要外形。",
+        "保留原有分层、立面与相邻步行空间的衔接。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "36bf776fd2d4e2ef3fd86b8f47231b3e8a65aa78001924826dcd4caed25acfc9",
+      "bytes": 345423
+    },
+    {
+      "id": "building-c6700a32",
+      "name": "倚石苑",
+      "group": "buildings",
+      "blend": "models/buildings/倚石苑/倚石苑.blend",
+      "reference_directory": "models/buildings/倚石苑/参考资料",
+      "preview": "models/buildings/倚石苑/预览.png",
+      "summary": "由多组石色建筑、折坡屋面和露台组成，突出屋顶与院落空间的组合。",
+      "features": [
+        "表现三角开口、错层露台与外楼梯。",
+        "保留浅色墙面、深窗及局部玻璃立面。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "eb0a9879d206b224b4a9654730da67dda7b2de3c98ec04ebd80cd5faaeb09e6e",
+      "bytes": 181702
+    },
+    {
+      "id": "building-089f8d49",
+      "name": "北岛三连方亭",
+      "group": "buildings",
+      "blend": "models/buildings/北岛三连方亭/北岛三连方亭.blend",
+      "reference_directory": "models/buildings/北岛三连方亭/参考资料",
+      "preview": "models/buildings/北岛三连方亭/预览.png",
+      "summary": "由三个相连的四坡屋顶单元组成的北岛入口建筑。",
+      "features": [
+        "保留三连方亭的平面关系与屋顶轮廓。",
+        "以简化柱、墙和开口表达下部空间。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "8eb9ac4bf6808b360677a5d3d3ecf6b7038131fbcbdc9e83a9bc7bebd851492d",
+      "bytes": 135255
+    },
+    {
+      "id": "building-10ae365d",
+      "name": "北岛露天看台",
+      "group": "buildings",
+      "blend": "models/buildings/北岛露天看台/北岛露天看台.blend",
+      "reference_directory": "models/buildings/北岛露天看台/参考资料",
+      "preview": "models/buildings/北岛露天看台/预览.png",
+      "summary": "当前采用的北岛露天阶梯看台与中央薄棚，不采用历史玻璃展厅方案。",
+      "features": [
+        "包含四组阶梯看席、棚下折线看席和近地铺装。",
+        "中央薄棚以细柱支撑，并保留两个贯通屋顶开孔。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "1cf1d9fe57eb22c9795d570ab203c03331b59fe69cf49cea48dc1e101ffe9d81",
+      "bytes": 303194
+    },
+    {
+      "id": "building-61939c44",
+      "name": "北岛东侧网格长亭",
+      "group": "buildings",
+      "blend": "models/buildings/北岛东侧网格长亭/北岛东侧网格长亭.blend",
+      "reference_directory": "models/buildings/北岛东侧网格长亭/参考资料",
+      "preview": "models/buildings/北岛东侧网格长亭/预览.png",
+      "summary": "位于北岛东侧的细长网格屋盖建筑，以屋顶节奏作为主要识别特征。",
+      "features": [
+        "表现长条屋盖及其网格构件。",
+        "保留与北岛其他入口建筑的相对位置。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "6601940ad0f96e6b47dcdb02d85f018148d29422fb15e4b424e6c5e81fbaab80",
+      "bytes": 104407
+    },
+    {
+      "id": "building-0658ff3f",
+      "name": "北岛双屋面建筑",
+      "group": "buildings",
+      "blend": "models/buildings/北岛双屋面建筑/北岛双屋面建筑.blend",
+      "reference_directory": "models/buildings/北岛双屋面建筑/参考资料",
+      "preview": "models/buildings/北岛双屋面建筑/预览.png",
+      "summary": "采用双条浅色屋面的北岛小型建筑模型。",
+      "features": [
+        "保留双屋面的并列关系和主要体量。",
+        "侧立面与高度为中远距离展示近似。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "58c20f719bcb6071f468745fc8604d8cf811b0905601895d99fabd8eed2e3fba",
+      "bytes": 121546
+    },
+    {
+      "id": "building-51322546",
+      "name": "北岛独立矩形建筑",
+      "group": "buildings",
+      "blend": "models/buildings/北岛独立矩形建筑/北岛独立矩形建筑.blend",
+      "reference_directory": "models/buildings/北岛独立矩形建筑/参考资料",
+      "preview": "models/buildings/北岛独立矩形建筑/预览.png",
+      "summary": "北岛入口组团中的独立矩形低层建筑。",
+      "features": [
+        "表现浅色平屋顶及矩形轮廓。",
+        "与周边方亭、长亭保持原定位关系。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "39e83fb4046a90cab5dcea34a05d95ca35ae9f36c871be010b469663a4035f7b",
+      "bytes": 106511
+    },
+    {
+      "id": "building-086de359",
+      "name": "南岛东侧白叶建筑",
+      "group": "buildings",
+      "blend": "models/buildings/南岛东侧白叶建筑/南岛东侧白叶建筑.blend",
+      "reference_directory": "models/buildings/南岛东侧白叶建筑/参考资料",
+      "preview": "models/buildings/南岛东侧白叶建筑/预览.png",
+      "summary": "南岛东侧的浅色叶形屋顶建筑，以连续曲面轮廓组织体量。",
+      "features": [
+        "保留叶片屋顶与中央深色屋面带。",
+        "墙体、开口与屋顶高差采用展示性简化。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "102157da0ac2f0a51b8ed9da46d78f52c1f092898463aa6f52cdf26a5adba69c",
+      "bytes": 146424
+    },
+    {
+      "id": "building-765dc734",
+      "name": "南岛东北岸中式院落组团",
+      "group": "buildings",
+      "blend": "models/buildings/南岛东北岸中式院落组团/南岛东北岸中式院落组团.blend",
+      "reference_directory": "models/buildings/南岛东北岸中式院落组团/参考资料",
+      "preview": "models/buildings/南岛东北岸中式院落组团/预览.png",
+      "summary": "由多栋中式院楼与水庭、廊道组成的南岛东北岸建筑组。",
+      "features": [
+        "包含翘檐屋顶、浅色墙体与院落围合。",
+        "保留临水平台、石栏与水庭小拱桥等组团构件。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "8062f25e00f3f04d14b47fb57038d4860ba8142d44655fe692f477929b878aeb",
+      "bytes": 214375
+    },
+    {
+      "id": "building-2d94ace0",
+      "name": "南岛入口三连灰顶建筑",
+      "group": "buildings",
+      "blend": "models/buildings/南岛入口三连灰顶建筑/南岛入口三连灰顶建筑.blend",
+      "reference_directory": "models/buildings/南岛入口三连灰顶建筑/参考资料",
+      "preview": "models/buildings/南岛入口三连灰顶建筑/预览.png",
+      "summary": "由三组灰色四坡屋顶及其下部体量组成的入口建筑组。",
+      "features": [
+        "保留三个屋顶的排列与相互间距。",
+        "邻近小屋单独维护，不混入本建筑组。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "d776855721efa01ba699c85c223b8e2161af3641abe9d6c2f8b291dcb4bb82f3",
+      "bytes": 105277
+    },
+    {
+      "id": "building-2d22b20f",
+      "name": "南岛游艇俱乐部",
+      "group": "buildings",
+      "blend": "models/buildings/南岛游艇俱乐部/南岛游艇俱乐部.blend",
+      "reference_directory": "models/buildings/南岛游艇俱乐部/参考资料",
+      "preview": "models/buildings/南岛游艇俱乐部/预览.png",
+      "summary": "南岛游艇俱乐部建筑及其附属构件，突出长条体量与通透顶棚。",
+      "features": [
+        "包含两侧网格顶棚、中央开口与下方平台。",
+        "保留服务翼和入口引廊，维持与游艇码头的原定位关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "89f623f77dbb3e5265e9050768990b3853624bdefd9ac9e6c79bbed8cc59878f",
+      "bytes": 207155
+    },
+    {
+      "id": "building-a7feb5e8",
+      "name": "南岛西侧红叶建筑",
+      "group": "buildings",
+      "blend": "models/buildings/南岛西侧红叶建筑/南岛西侧红叶建筑.blend",
+      "reference_directory": "models/buildings/南岛西侧红叶建筑/参考资料",
+      "preview": "models/buildings/南岛西侧红叶建筑/预览.png",
+      "summary": "采用红色曲面叶形屋顶的南岛西侧小型建筑。",
+      "features": [
+        "通过红色连续屋顶与叶片外轮廓形成识别。",
+        "保留下部简化体量与原区域定位。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "f70d2fbc198e0b7c79de3e5412c2ba949c534e97889099b59b0b52c56efcc443",
+      "bytes": 135421
+    },
+    {
+      "id": "building-1cc1f7cb",
+      "name": "明叶轩",
+      "group": "buildings",
+      "blend": "models/buildings/明叶轩/明叶轩.blend",
+      "reference_directory": "models/buildings/明叶轩/参考资料",
+      "preview": "models/buildings/明叶轩/预览.png",
+      "summary": "以曲面金属叶片屋顶和错层露台为主要特征的临湖建筑。",
+      "features": [
+        "保留屋顶开孔、金属立缝与入口坡道。",
+        "包含背湖侧外楼梯、穿树露台与局部玻璃空间。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "2ad6b1870c1e06d3e2899a7936d595d23e9cd068f915763360da8e0572fa3c3d",
+      "bytes": 1326014
+    },
+    {
+      "id": "building-d500e56c",
+      "name": "港城国贸中心",
+      "group": "buildings",
+      "blend": "models/buildings/港城国贸中心/港城国贸中心.blend",
+      "reference_directory": "models/buildings/港城国贸中心/参考资料",
+      "preview": "models/buildings/港城国贸中心/预览.png",
+      "summary": "通过高低错落的楼体、庭院和悬挑部分表达主要建筑形态。",
+      "features": [
+        "表现分层立面、连续柱廊与临湖庭院。",
+        "保留较低裙房与较高楼体的组合关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "8cd2d51c3db11273e7e40f6b7e07bdb4fae5995fc49e14e30ace0479823708fc",
+      "bytes": 221438
+    },
+    {
+      "id": "building-71231eb4",
+      "name": "港城大厦",
+      "group": "buildings",
+      "blend": "models/buildings/港城大厦/港城大厦.blend",
+      "reference_directory": "models/buildings/港城大厦/参考资料",
+      "preview": "models/buildings/港城大厦/预览.png",
+      "summary": "由围合庭院的翼楼与较高边角楼体构成的建筑组。",
+      "features": [
+        "保留U形庭院、浅色窗框和深色玻璃分格。",
+        "屋顶加入百叶与设备体量的简化表达。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "a1c68672610869a1b047c0189c278d090e96c1fb2c59f46ef69476d9f78d733c",
+      "bytes": 235699
+    },
+    {
+      "id": "building-feeaf426",
+      "name": "湖心雕塑",
+      "group": "buildings",
+      "blend": "models/buildings/湖心雕塑/湖心雕塑.blend",
+      "reference_directory": "models/buildings/湖心雕塑/参考资料",
+      "preview": "models/buildings/湖心雕塑/预览.png",
+      "summary": "滴水湖湖心的开环雕塑及其圆岛底座，采用当前银色金属版本。",
+      "features": [
+        "上下端收窄，外侧表现分段棱面和细竖向拼缝。",
+        "内侧采用较平顺的金属表面与浅分条。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "429f20ed4c253cdc6075e0017011b28c941d7f900befc46821dc4b7b63d9d59e",
+      "bytes": 390024
+    },
+    {
+      "id": "building-26ec0c81",
+      "name": "滴水云厅",
+      "group": "buildings",
+      "blend": "models/buildings/滴水云厅/滴水云厅.blend",
+      "reference_directory": "models/buildings/滴水云厅/参考资料",
+      "preview": "models/buildings/滴水云厅/预览.png",
+      "summary": "以环形流动屋面与连续玻璃带为特征的临湖建筑。",
+      "features": [
+        "表现起伏屋顶、圆角长窗与银白实体墙面。",
+        "保留环廊、挑檐及与站广场的空间关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "388d72375ceb9c3e969ca1411016799f072d430e5501e2c6cda150f69fcf3e96",
+      "bytes": 446930
+    },
+    {
+      "id": "building-70f26f7f",
+      "name": "滴水湖一号码头",
+      "group": "buildings",
+      "blend": "models/buildings/滴水湖一号码头/滴水湖一号码头.blend",
+      "reference_directory": "models/buildings/滴水湖一号码头/参考资料",
+      "preview": "models/buildings/滴水湖一号码头/预览.png",
+      "summary": "以伞状结构、柱列和临水平台为主要识别元素的码头建筑组。",
+      "features": [
+        "表现屋盖与支撑构件的连续排列。",
+        "保留平台边界、通道与湖岸连接关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "baad6ff567faf017a10f38aaf9829cf32b49a2b9518cf400ec48f63761a0b21b",
+      "bytes": 1082877
+    },
+    {
+      "id": "building-00856345",
+      "name": "滴水湖会议中心",
+      "group": "buildings",
+      "blend": "models/buildings/滴水湖会议中心/滴水湖会议中心.blend",
+      "reference_directory": "models/buildings/滴水湖会议中心/参考资料",
+      "preview": "models/buildings/滴水湖会议中心/预览.png",
+      "summary": "南岛会议中心独立建筑模型，表现主要屋面和临湖体量。",
+      "features": [
+        "保留屋顶轮廓、主体分区及立面节奏。",
+        "与酒店及游艇俱乐部保持原区域坐标关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "705827de651d1b5b1ea6be3279060ec86b6110eaa8cb911df30933c5aa401353",
+      "bytes": 206843
+    },
+    {
+      "id": "building-5fb310f8",
+      "name": "滴水湖洲际酒店",
+      "group": "buildings",
+      "blend": "models/buildings/滴水湖洲际酒店/滴水湖洲际酒店.blend",
+      "reference_directory": "models/buildings/滴水湖洲际酒店/参考资料",
+      "preview": "models/buildings/滴水湖洲际酒店/预览.png",
+      "summary": "以五瓣花形客房翼及中央连接空间构成的酒店建筑组。",
+      "features": [
+        "表现花瓣屋顶、凸起天窗、阳台板及金属肋。",
+        "保留连接空间、泳池和绿色附属体量等主要构件。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "7d9a8d279b65e8c23e5a7a5f7da2b35b80848a4fea83b07bdb41d3f533a22eef",
+      "bytes": 618868
+    },
+    {
+      "id": "building-a700850a",
+      "name": "滴水湖站广场",
+      "group": "buildings",
+      "blend": "models/buildings/滴水湖站广场/滴水湖站广场.blend",
+      "reference_directory": "models/buildings/滴水湖站广场/参考资料",
+      "preview": "models/buildings/滴水湖站广场/预览.png",
+      "summary": "由站口顶棚、下沉空间与起伏地面平台共同组成的站广场模型。",
+      "features": [
+        "表现两个相向开口的半环顶棚。",
+        "保留开孔、入口、露台与下行台阶等广场构件。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "9e3b2ae645665684840c79e344e1b4acedc6f0e7ece04f373a12435f0a5a771f",
+      "bytes": 434515
+    },
+    {
+      "id": "building-a25f2de6",
+      "name": "白色钟塔",
+      "group": "buildings",
+      "blend": "models/buildings/白色钟塔/白色钟塔.blend",
+      "reference_directory": "models/buildings/白色钟塔/参考资料",
+      "preview": "models/buildings/白色钟塔/预览.png",
+      "summary": "以白色实体塔身和四向钟面表达的独立钟塔模型。",
+      "features": [
+        "四个方向均设可辨识的圆形钟面。",
+        "保留塔身、基座与周边建筑的原定位关系。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "77414ba8f98d4b4a881c0d2dc0dbc1d2f0253933971ebb3f7c8fa08b36994862",
+      "bytes": 120053
+    },
+    {
+      "id": "building-84f5b1f7",
+      "name": "站广场东侧L形办公楼",
+      "group": "buildings",
+      "blend": "models/buildings/站广场东侧L形办公楼/站广场东侧L形办公楼.blend",
+      "reference_directory": "models/buildings/站广场东侧L形办公楼/参考资料",
+      "preview": "models/buildings/站广场东侧L形办公楼/预览.png",
+      "summary": "紧邻站广场的L形办公建筑，以高低两翼和立面节奏表现外观。",
+      "features": [
+        "湖侧翼较高、站侧翼较低，保留原L形轮廓。",
+        "包含密集深窗框、水平腰线与屋顶设备体量。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "e2f9aa763b0f2012fdef4143cb1af7c9b065c5452c7fa4d7ac917def7dca6e68",
+      "bytes": 126289
+    },
+    {
+      "id": "building-127b6e89",
+      "name": "绿丽港音乐盒子",
+      "group": "buildings",
+      "blend": "models/buildings/绿丽港音乐盒子/绿丽港音乐盒子.blend",
+      "reference_directory": "models/buildings/绿丽港音乐盒子/参考资料",
+      "preview": "models/buildings/绿丽港音乐盒子/预览.png",
+      "summary": "以斜切玻璃立面、三角开口和外部楼梯表现主要建筑形态。",
+      "features": [
+        "保留金属外壳与内退玻璃面的层次。",
+        "包含连续外楼梯及屋顶入口连接。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "a46f2d6e0158e5dd04973c9e07968af7c0f39913d68f8e94cfd5cb0bd968fe76",
+      "bytes": 293378
+    },
+    {
+      "id": "building-5194b0f4",
+      "name": "西北岸圆亭",
+      "group": "buildings",
+      "blend": "models/buildings/西北岸圆亭/西北岸圆亭.blend",
+      "reference_directory": "models/buildings/西北岸圆亭/参考资料",
+      "preview": "models/buildings/西北岸圆亭/预览.png",
+      "summary": "采用放射状圆形屋顶的西北岸独立亭状建筑。",
+      "features": [
+        "表现圆形屋面与简化下部柱、墙体。",
+        "保留其在湖岸绿地中的原区域位置。"
+      ],
+      "note": "屋顶主要依据航空影像复原，侧立面、尺寸、高度及部分身份仍未完全核实。",
+      "sha256": "c073392da0c204f2d688888fe7a6e8f824e56bec29b656e84ddffd20328ac548",
+      "bytes": 105648
+    },
+    {
+      "id": "bridge-3d2444dc",
+      "name": "北岛浮桥",
+      "group": "bridges",
+      "blend": "models/bridges/北岛浮桥/北岛浮桥.blend",
+      "reference_directory": "models/bridges/北岛浮桥/参考资料",
+      "preview": "models/bridges/北岛浮桥/预览.png",
+      "summary": "以三叉曲线通道组织的北岛水上步行桥模型。",
+      "features": [
+        "保留弯曲桥面、分叉关系与栏杆构件。",
+        "保持原水岸连接位置，适合整体区域组装。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "f790010b01e14aaac8502bfce071622bd66ff087220ada4d07a22188760a07ff",
+      "bytes": 276675
+    },
+    {
+      "id": "bridge-5efef913",
+      "name": "南岛古典廊桥",
+      "group": "bridges",
+      "blend": "models/bridges/南岛古典廊桥/南岛古典廊桥.blend",
+      "reference_directory": "models/bridges/南岛古典廊桥/参考资料",
+      "preview": "models/bridges/南岛古典廊桥/预览.png",
+      "summary": "由转折长廊、亭和三孔桥段组成的南岛桥梁组。",
+      "features": [
+        "表现古典廊桥屋顶、柱列与亭式节点。",
+        "保留桥段转折关系与多孔桥下部体量。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "cbdd1dd6712fbb8938619779fbcb96896c3ea93855c6b63ce658de46a413417c",
+      "bytes": 464728
+    },
+    {
+      "id": "bridge-f5e8c753",
+      "name": "橙卉桥",
+      "group": "bridges",
+      "blend": "models/bridges/橙卉桥/橙卉桥.blend",
+      "reference_directory": "models/bridges/橙卉桥/参考资料",
+      "preview": "models/bridges/橙卉桥/预览.png",
+      "summary": "以多层环形步道和层叠屋盖构成的橙卉桥模型。",
+      "features": [
+        "保留三层环廊与连接路径。",
+        "以曲线栏杆、柱列和屋顶构件表现空间节奏。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "33e753525d998e4569cc7d66f1f3a75f12c58dd3d8fa83efb306c7a35d9a5673",
+      "bytes": 350123
+    },
+    {
+      "id": "bridge-138ba0d4",
+      "name": "紫浪桥",
+      "group": "bridges",
+      "blend": "models/bridges/紫浪桥/紫浪桥.blend",
+      "reference_directory": "models/bridges/紫浪桥/参考资料",
+      "preview": "models/bridges/紫浪桥/预览.png",
+      "summary": "以波浪轮廓和重复构件表现的紫浪桥模型。",
+      "features": [
+        "保留起伏桥体与主要步行通道。",
+        "通过连续分格构件表达波浪形态。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "0474538ebe1e444245b42a1322a124cb0aa7a8fee592062bc23ec2c189c92f43",
+      "bytes": 243406
+    },
+    {
+      "id": "bridge-b30f6512",
+      "name": "绿荷桥",
+      "group": "bridges",
+      "blend": "models/bridges/绿荷桥/绿荷桥.blend",
+      "reference_directory": "models/bridges/绿荷桥/参考资料",
+      "preview": "models/bridges/绿荷桥/预览.png",
+      "summary": "以荷瓣状拱肋和起伏桥面组合表现的绿荷桥模型。",
+      "features": [
+        "保留荷瓣状白色钢肋、斜撑与支承关系。",
+        "维持原有桥面走向与湖岸连接。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "d9870817591e318ca3e518f7df245fcd4d8f03abc58fb30eb54a46289b690aec",
+      "bytes": 149322
+    },
+    {
+      "id": "bridge-8cb17088",
+      "name": "蓝藻桥",
+      "group": "bridges",
+      "blend": "models/bridges/蓝藻桥/蓝藻桥.blend",
+      "reference_directory": "models/bridges/蓝藻桥/参考资料",
+      "preview": "models/bridges/蓝藻桥/预览.png",
+      "summary": "以格栅构件和临水桥面为主要特征的蓝藻桥模型。",
+      "features": [
+        "表现连续格栅形成的外部轮廓。",
+        "保留桥面、栏杆与支撑构件。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "ad12ad98717f14abb756e00d6110a991de149b1ed20e0bccb23ebd6b9c3a88fc",
+      "bytes": 160507
+    },
+    {
+      "id": "bridge-5a54a67d",
+      "name": "赤黾桥",
+      "group": "bridges",
+      "blend": "models/bridges/赤黾桥/赤黾桥.blend",
+      "reference_directory": "models/bridges/赤黾桥/参考资料",
+      "preview": "models/bridges/赤黾桥/预览.png",
+      "summary": "以拱形主体和向外展开的支撑构成的赤黾桥模型。",
+      "features": [
+        "保留拱桥轮廓与四肢状展开构件。",
+        "表现桥面和湖岸之间的连续连接。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "750b665eae4f51d1a95e03ba483fdf4f5aa3da9ca0672c019de0f286525c665a",
+      "bytes": 144811
+    },
+    {
+      "id": "bridge-cd6ad7f3",
+      "name": "青缎桥",
+      "group": "bridges",
+      "blend": "models/bridges/青缎桥/青缎桥.blend",
+      "reference_directory": "models/bridges/青缎桥/参考资料",
+      "preview": "models/bridges/青缎桥/预览.png",
+      "summary": "以缎带状曲面和步行路径构成的青缎桥模型。",
+      "features": [
+        "保留流动曲线及桥面的主要外轮廓。",
+        "通过简化支撑与栏杆表达构造层次。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "a21e4a7487ad06aad7252a34fc6324ce9bb437f20d0853cf314ed1500671eea6",
+      "bytes": 228060
+    },
+    {
+      "id": "bridge-96cec6a4",
+      "name": "黄篓桥",
+      "group": "bridges",
+      "blend": "models/bridges/黄篓桥/黄篓桥.blend",
+      "reference_directory": "models/bridges/黄篓桥/参考资料",
+      "preview": "models/bridges/黄篓桥/预览.png",
+      "summary": "以人字形分叉与桥梁构件组合表现的黄篓桥模型。",
+      "features": [
+        "保留人字形步行通道与结构分叉。",
+        "表现重复构件形成的桥体轮廓。"
+      ],
+      "note": "以中远距离可辨识外观为目标；尺寸、细部与材质为复原近似。",
+      "sha256": "4674d708a9707d5b8e9d25a3050692eeb611063d3bd65bfb4e7e024f40df1b24",
+      "bytes": 176854
+    }
+  ],
+  "validation": {
+    "standalone_assets_reopened": 36,
+    "relative_libraries": 36,
+    "geometry_transform_material_signatures_unchanged": true,
+    "main_objects_compared": 20857,
+    "embedded_license": "MIT"
+  }
+}

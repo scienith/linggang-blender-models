@@ -1,0 +1,24 @@
+{
+  "model": "南岛东侧白叶建筑",
+  "blend": "models/buildings/南岛东侧白叶建筑/南岛东侧白叶建筑.blend",
+  "publication_scope": "sources_and_links_only",
+  "original_reference_files_included": false,
+  "sources": [
+    {
+      "category": "航空影像",
+      "sha256": "853f23e88db9fce935e754f10b4b74c18dd2f7495b34333ca3d81a1a8a1e1ee5",
+      "bytes": 76950,
+      "source_page": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+      "source_file_url": "https://services.arcgisonline.com/arcgis/rest/directories/arcgisoutput/World_Imagery_MapServer/_ags_map44a90294978a4ffe8f090a0b4b2055b6.jpg",
+      "downloaded_on": "2026-10-11T21:16:16.174811+00:00",
+      "photo_capture_date": null,
+      "page_publication_hint": null,
+      "model_review_observation": null,
+      "provider_licence_links_in_saved_page": [],
+      "ai_generated_auxiliary_not_photographic_evidence": false,
+      "original_filename": "utility-aerials-1537376093.jpg",
+      "original_included": false,
+      "provider_licence_status": "未逐项核实；按原站许可说明确认使用范围"
+    }
+  ]
+}
