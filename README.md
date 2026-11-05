@@ -6,8 +6,6 @@
 
 ![主场景模型预览](docs/主场景预览.png)
 
-主场景预览为模型渲染，非实景照片。地理数据 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)，ODbL 1.0。
-
 ## 项目内容
 
 - 1 个链接主场景，组装 27 组建筑与地标、9 座桥梁。
@@ -80,3 +78,7 @@ git lfs pull
 本项目采用 [MIT License](LICENSE)。允许商用、修改和再分发；请保留版权及许可声明。制作方信息同时保存在 Blender 文件内部，可在对象自定义属性与内嵌文本中查看。
 
 地理数据与第三方参考来源的权利说明见 [NOTICE.md](NOTICE.md)；MIT 不替代 OSM 数据的 ODbL 许可，也不对链接指向的第三方作品重新授权。
+
+## 数据来源
+
+地理数据：© [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
